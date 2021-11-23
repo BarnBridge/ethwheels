@@ -1,4 +1,4 @@
-module github.com/lacasian/ethwheels
+module github.com/BarnBridge/ethwheels
 
 go 1.16
 
